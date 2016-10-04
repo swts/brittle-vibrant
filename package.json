@@ -1,0 +1,25 @@
+{
+  "name": "sweets-brittle-vibrant",
+  "version": "0.9.0",
+  "description": "Processor for sweets-brittle that extracts prominent colors from an image.",
+  "keywords": [
+    "future",
+    "web",
+    "framework",
+    "sweets",
+    "files",
+    "vibrant",
+    "colors",
+    "palette"
+  ],
+  "author": "Alexey Novikov <v@2dubs.com> (http://2dubs.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:swts/brittle-vibrant.git"
+  },
+  "main": "./index",
+  "dependencies": {
+    "node-vibrant": "^2.1.2"
+  }
+}
